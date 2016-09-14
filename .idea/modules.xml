@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/elki/elki.iml" filepath="$PROJECT_DIR$/elki/elki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-core-api/elki-core-api.iml" filepath="$PROJECT_DIR$/elki-core-api/elki-core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-core-data/elki-core-data.iml" filepath="$PROJECT_DIR$/elki-core-data/elki-core-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-core-dbids/elki-core-dbids.iml" filepath="$PROJECT_DIR$/elki-core-dbids/elki-core-dbids.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-core-dbids-int/elki-core-dbids-int.iml" filepath="$PROJECT_DIR$/elki-core-dbids-int/elki-core-dbids-int.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-core-distance/elki-core-distance.iml" filepath="$PROJECT_DIR$/elki-core-distance/elki-core-distance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-core-math/elki-core-math.iml" filepath="$PROJECT_DIR$/elki-core-math/elki-core-math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-core-util/elki-core-util.iml" filepath="$PROJECT_DIR$/elki-core-util/elki-core-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-docutil/elki-docutil.iml" filepath="$PROJECT_DIR$/elki-docutil/elki-docutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-gui-minigui/elki-gui-minigui.iml" filepath="$PROJECT_DIR$/elki-gui-minigui/elki-gui-minigui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-index/elki-index.iml" filepath="$PROJECT_DIR$/elki-index/elki-index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-index-rtree/elki-index-rtree.iml" filepath="$PROJECT_DIR$/elki-index-rtree/elki-index-rtree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-logging/elki-logging.iml" filepath="$PROJECT_DIR$/elki-logging/elki-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-persistent/elki-persistent.iml" filepath="$PROJECT_DIR$/elki-persistent/elki-persistent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elki-project.iml" filepath="$PROJECT_DIR$/elki-project.iml" />
+    </modules>
+  </component>
+</project>
